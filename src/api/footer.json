@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Pune, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "(555) 555-1234"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@reactjs.com"
+    }
+  ]
